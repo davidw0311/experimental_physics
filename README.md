@@ -2,10 +2,10 @@
 
 ## Fascinating experiments in Physics! 
 
-[Measuring the propagation distance of $\alpha$ particles in air!](alpha)
+### [Measuring the propagation distance of α particles in air!](alpha)
 
-Observations of Chaotic Behaviour of a dripping faucet!
+### [Observations of Chaotic Rhythms of a dripping faucet!](chaos)
 
-Discovering the pulsed magnetic resonance of spins!
+### [Discovering the pulsed magnetic resonance in particle spins!](pNMR)
 
 
