@@ -1,0 +1,22 @@
+{
+    "1": {
+        "vacuum_level": 4.050806,
+        "trigger_time": 1,
+        "particle_counts": 3,
+        "particle_energies": [
+            3.3600000000000003,
+            4.16,
+            2.96
+        ]
+    },
+    "2": {
+        "vacuum_level": 3.947337,
+        "trigger_time": 1,
+        "particle_counts": 3,
+        "particle_energies": [
+            3.4400000000000004,
+            3.84,
+            3.3600000000000003
+        ]
+    }
+}
