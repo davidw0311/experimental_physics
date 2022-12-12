@@ -1,4 +1,4 @@
-# Experimental Physics
+# Experimental physics
 
 ## Fascinating experiments in Physics! 
 
