@@ -1,8 +1,8 @@
 # Experimental Physics
 
-Fascinating Physics Labs that I have performed 
+## Fascinating experiments in Physics! 
 
-Measuring the propagation distance of $\alpha$ particles in air!
+[Measuring the propagation distance of $\alpha$ particles in air!](alpha)
 
 Observations of Chaotic Behaviour of a dripping faucet!
 
